@@ -1,6 +1,6 @@
-# Productivity Plus
+# Prodify App
 
-**Productivity Plus** is an innovative Android application designed to enhance user productivity by providing essential information and organizational tools.
+**ProdifyApp** is an innovative Android application designed to enhance user productivity by providing essential information and organizational tools.
 
 ## Features
 
