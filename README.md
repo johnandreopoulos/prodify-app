@@ -25,9 +25,9 @@ The design process included storyboards and wireframes, addressing challenges cr
 
 Instructions for installation will go here.
 
-## Contributing
+<!--- ## Contributing
 
-Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests. --->
 
 ## License
 
